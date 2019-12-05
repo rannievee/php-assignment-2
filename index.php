@@ -7,3 +7,4 @@ $word = "radar" ;
   else{
       echo "the word is not a palindrome";
   }
+?>
